@@ -1,7 +1,5 @@
 ### Hi there 👋 I am a Software Engineer by day and a Historian by night.
 
-<a rel="me" href="https://mstdn.social/@thelazzyone">My Mastodon Profile</a>
-
 <!--
 **aaronburrell/aaronburrell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
